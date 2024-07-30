@@ -51,7 +51,7 @@
     <ul>
         <li><a href="https://github.com/MADBUS/yosungbi">요심비</a> - 요리, 밀키트, 배달의 시간적 요금적 가성비를 비교한 frontend 개인프로젝트</li>
         <li><a href="https://github.com/MADBUS/AAP">AAP</a> - 약국에 유통기한이 임박한 약을을 자동으로 알려주는 사이트</li>
-        <li><a href="https://github.com/your-username/project3">Project 3</a> - 프로젝트 3 설명</li>
+        <li><a href="https://github.com/MADBUS/yakchubang">약쳐봥</a> - 문제가 되고있는 과다 약물 복용의 근본적인 문제를 해결하고자 환자와 의학적 전문가 간에 커뮤니케이션 사이트</li>
     </ul>
 </div> 
 </div>
