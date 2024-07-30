@@ -1,5 +1,6 @@
 <div align= "center">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=240&text=SELECT%20growth%20FROM%20developer&animation=fadeIn&fontColor=ffffff&fontSize=40" />
+    <img src="https://github.com/MADBUS/test/blob/master/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202024-07-30%20185946.png" />
 </div>
 <div style="text-align: left;"> 
 <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 저는 이런 사람입니다. </h2>  
