@@ -1,5 +1,5 @@
 
-    <img src="https://github.com/MADBUS/test/blob/master/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202024-07-30%20185946.png" />
+<img src="https://github.com/MADBUS/test/blob/master/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202024-07-30%20185946.png" />
 <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Who Am I? </h2>  
     <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> <li> 성장하는것을 즐기는 개발자</li><li> 유학을 계기로 다양한 문화와 인종과의 강화된 소통능력</li><li> 자아성찰이 빠르고 스스로 피드백을 멈추지 않고 성장</li><li> 지식 욕구를 채우기 위해 항상 새로운 것을 갈구 </div> 
