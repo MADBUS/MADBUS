@@ -50,7 +50,7 @@
 <div style="text-align: left;"> 
     <ul>
         <li><a href="https://github.com/MADBUS/yosungbi">요심비</a> - 요리, 밀키트, 배달의 시간적 요금적 가성비를 비교한 frontend 개인프로젝트</li>
-        <li><a href="https://github.com/your-username/project2">Project 2</a> - 프로젝트 2 설명</li>
+        <li><a href="https://github.com/MADBUS/AAP">AAP</a> - 약국에 유통기한이 임박한 약을을 자동으로 알려주는 사이트</li>
         <li><a href="https://github.com/your-username/project3">Project 3</a> - 프로젝트 3 설명</li>
     </ul>
 </div> 
