@@ -4,9 +4,6 @@
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Who Am I? </h2>  
     <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> <li> 성장하는것을 즐기는 개발자</li><li> 유학을 계기로 다양한 문화와 인종과의 강화된 소통능력</li><li> 자아성찰이 빠르고 스스로 피드백을 멈추지 않고 성장</li><li> 지식 욕구를 채우기 위해 항상 새로운 것을 갈구 </div> 
     </div>
-    <div style="text-align: left;">
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
-   <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
     <div style="margin: ; text-align: left;" "text-align: left;"> <img src="https://img.shields.io/badge/Apache Tomcat-F8DC75?style=for-the-badge&logo=Apache Tomcat&logoColor=white">
           <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=for-the-badge&logo=Amazon AWS&logoColor=white">
@@ -21,9 +18,9 @@
           <br/><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
           <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white">
           <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
+        <img src="https://img.shields.io/badge/CSharp-6DB33F?style=for-the-badge&logo=CSharp&logoColor=white">
           </div>
     </div>
-    
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2> <br> 
     <div style="text-align: left;"> <a href=https://velog.io/@pyunzzang/posts> <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white&link=https://velog.io/@pyunzzang/posts"> </a>
