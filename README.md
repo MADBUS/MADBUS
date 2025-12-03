@@ -5,12 +5,13 @@
     <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> <li> 성장하는것을 즐기는 개발자</li><li> 유학을 계기로 다양한 문화와 인종과의 강화된 소통능력</li><li> 자아성찰이 빠르고 스스로 피드백을 멈추지 않고 성장</li><li> 지식 욕구를 채우기 위해 항상 새로운 것을 갈구 </div> 
     </div>
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
-    <div style="margin: ; text-align: left;" "text-align: left;"> <img src="https://img.shields.io/badge/Apache Tomcat-F8DC75?style=for-the-badge&logo=Apache Tomcat&logoColor=white">
+    <div style="margin: ; text-align: left;" "text-align: left;"> 
+         <img src="https://img.shields.io/badge/Apache Tomcat-F8DC75?style=for-the-badge&logo=Apache Tomcat&logoColor=white">
           <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=for-the-badge&logo=Amazon AWS&logoColor=white">
           <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white">
           <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white">
           <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">
-          <br/><img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white">
+          <br/><img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white"> 
           <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jQuery&logoColor=white">
           <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white">
           <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=Javascript&logoColor=white">
