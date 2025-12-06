@@ -49,6 +49,29 @@
 
 ---
 
+## 🏅 Stats
+
+### 📊 GitHub Stats
+<p align="center">
+  <img height="170px" src="https://github-readme-stats.vercel.app/api?username=MADBUS&show_icons=true&theme=default&hide_border=true" />
+  <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MADBUS&layout=compact&hide_border=true" />
+</p>
+
+---
+
+### 🔥 Contribution Graph (Commit Graph)
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MADBUS&bg_color=ffffff&color=000000&line=4c8eda&point=1a73e8&area=true&hide_border=true" />
+</p>
+
+---
+
+### 🏆 GitHub Trophy
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=MADBUS&theme=flat&column=6&margin-w=10&margin-h=10" />
+</p>
+
+---
 ## 📂 Projects
 
 ### 🔸 [요심비](https://github.com/MADBUS/yosungbi)
