@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/MADBUS/test/blob/master/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202024-07-30%20185946.png" width="200" />
+  <img src="https://github.com/MADBUS/test/blob/master/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202024-07-30%20185946.png" width="500" />
 </p>
 
 <h1 align="center">Hi, I'm MADBUS 👋</h1>
@@ -49,11 +49,6 @@
 
 ---
 
-## 🏅 Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MADBUS&layout=compact&bg_color=ffffff&title_color=000000&text_color=000000)
-
----
-
 ## 📂 Projects
 
 ### 🔸 [요심비](https://github.com/MADBUS/yosungbi)
@@ -65,6 +60,11 @@
 ### 🔸 [약쳐봥](https://github.com/MADBUS/yakchubang)
 > 과다 약물 복용 문제 해결을 위한 **환자 ↔ 전문가 커뮤니케이션 플랫폼**
 
+### 🔸 [Sentry](https://github.com/MADBUS/SentryAssginment)
+> CCTV 관제의 효율성과 안정성을 높이기 위해 실시간 스트리밍·AI 분석·채팅·검색·맵 기능을 통합한 **웹 기반 지능형 관제 솔루션**
+
+### 🔸 [FAIShion](https://github.com/MADBUS/FAIShionAssignment)
+> AI 스타일링, 가상 피팅, 결제 시스템, 재고·배송 관리까지 통합한 풀스택 **패션 커머스 플랫폼**
 ---
 
 <p align="center">✨ 꾸준한 성장과 문제 해결을 즐기는 개발자가 되겠습니다.</p>
