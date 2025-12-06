@@ -22,6 +22,8 @@
          <img src="https://img.shields.io/badge/MsSQL-E34F26?style=for-the-badge&logo=MsSQL&logoColor=white">
           <img src="https://img.shields.io/badge/Kotlin-F7DF1E?style=for-the-badge&logo=Kotlin&logoColor=white">
           <br/><img src="https://img.shields.io/badge/DevExpress-3776AB?style=for-the-badge&logo=Devepxress&logoColor=white">
+         <img src="https://img.shields.io/badge/Servlet-1572B6?style=for-the-badge&logo=Servlet&logoColor=white">
+        <img src="https://img.shields.io/badge/ASP.NET-2496ED?style=for-the-badge&logo=ASP.NET&logoColor=white">
           </div>
     </div>
     <div style="text-align: left;">
