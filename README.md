@@ -19,6 +19,9 @@
           <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
         <img src="https://img.shields.io/badge/CSharp-6DB33F?style=for-the-badge&logo=CSharp&logoColor=white">
          <img src="https://img.shields.io/badge/Jsp-007396?style=for-the-badge&logo=Jsp&logoColor=white">
+         <img src="https://img.shields.io/badge/MsSQL-E34F26?style=for-the-badge&logo=MsSQL&logoColor=white">
+          <img src="https://img.shields.io/badge/Kotlin-F7DF1E?style=for-the-badge&logo=Kotlin&logoColor=white">
+          <br/><img src="https://img.shields.io/badge/DevExpress-3776AB?style=for-the-badge&logo=Devepxress&logoColor=white">
           </div>
     </div>
     <div style="text-align: left;">
