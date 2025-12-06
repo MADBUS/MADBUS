@@ -24,6 +24,8 @@
           <br/><img src="https://img.shields.io/badge/DevExpress-3776AB?style=for-the-badge&logo=Devepxress&logoColor=white">
          <img src="https://img.shields.io/badge/Servlet-1572B6?style=for-the-badge&logo=Servlet&logoColor=white">
         <img src="https://img.shields.io/badge/ASP.NET-2496ED?style=for-the-badge&logo=ASP.NET&logoColor=white">
+        <img src="https://img.shields.io/badge/VisualStudio-0769AD?style=for-the-badge&logo=VisualStudio&logoColor=white">
+        <img src="https://img.shields.io/badge/SpringBoot-007396?style=for-the-badge&logo=SpringBoot&logoColor=white">
           </div>
     </div>
     <div style="text-align: left;">
